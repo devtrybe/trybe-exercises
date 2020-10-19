@@ -1,2 +1,0 @@
-Verificar efeitos de git push.
-Agora, de git fetch.
